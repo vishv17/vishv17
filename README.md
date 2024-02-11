@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there, I'm Vishv Shroff 👋
+
+Hi there, I'm Vishv Shroff 👋
+I'm a Business Analyst and a Software Developer based in India 🇮🇳
+I'm passionate about mobile app development, artificial intelligence, and data analysis 💖
+I'm skilled in Python, Java, SQL, Kotlin 💻
+I'm currently working on some personal projects and learning JavaScript to explore web development with React 🚀
+I'm always eager to learn new things and collaborate with others on innovative solutions 🙌
+Feel free to reach out to me at vishvshroff54@outlook.com 📫
 
 <a href="https://app.daily.dev/vishv17"><img src="https://api.daily.dev/devcards/c191686ddf9042d78a71c21da7f15380.png?r=tic" width="400" alt="Vishv Shroff's Dev Card"/></a>
 <!--
